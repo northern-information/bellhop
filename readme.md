@@ -2,9 +2,9 @@
 
 # Setup
 
-1. On your Octatrack card, create a new set called `LOBBY`. This should be located at the root of the card.
+1. On your Octatrack card, create a new set called `BELLHOP`. This should be located at the root of the card.
 2. Enter USB mode.
-3. On your Octatrack, clone this repository here: `/LOBBY/.git`
+3. On your Octatrack, clone this repository here: `/BELLHOP/.git`
 4. Work on the Octatrack as you you normally would.
 5. Push changes via git like you normally would.
 
