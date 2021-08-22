@@ -8,7 +8,7 @@
 4. Work on the Octatrack as you you normally would.
 5. Push changes via git like you normally would.
 
-#Purpose
+# Purpose
 
 bellhop works in conjunction with [bouncer](https://github.com/northern-information/bouncer).
 
