@@ -15,5 +15,3 @@ bellhop works in conjunction with [bouncer](https://github.com/northern-informat
 bellhop handles octatrack project files and ignores `.wav` files.
 
 bouncer handles `.wav` files via dropbox.
-
-# Testing The Dumpster Fire
